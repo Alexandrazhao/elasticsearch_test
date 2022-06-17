@@ -41,3 +41,4 @@ This repository contains **Dockerfile** of [Elasticsearch](http://www.elasticsea
     ```
 
 After few seconds, open `http://<host>:9200` to see the result.
+Just made some changes to test if this works
